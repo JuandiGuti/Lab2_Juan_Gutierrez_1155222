@@ -1,4 +1,5 @@
 #include <iostream>
+//Juan Diego Gutierrez Taracena 1155222
 //Struct del conjunto de las figueras
 struct figuras_geometricas {
 	//atributos
